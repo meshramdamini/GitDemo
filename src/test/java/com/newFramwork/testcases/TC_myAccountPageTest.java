@@ -26,6 +26,23 @@ public class TC_myAccountPageTest extends Baseclass
 		
 		
 	}
+	
+	@Test (priority = 4)
+	public void TC001_CHECK() throws InterruptedException 
+	{
+		
+		logger.info("verify login test excecution started");
+		FirtstPagelogin Login = new FirtstPagelogin(driver);
+	    Login.usrnameLogin("Admin");
+		logger.info("username");
+		Login.password("admin123");
+		logger.info("passwordfirstpag");
+		Login.login();
+		logger.info("click on login");
+		
+		
+	}
+
 
 	
 	
