@@ -40,6 +40,17 @@ public class TC_myAccountPageTest extends Baseclass
 		Login.login();
 		logger.info("click on login");
 		
+		//extra added
+		
+		logger.info("verify login test excecution started");
+		FirtstPagelogin Login2 = new FirtstPagelogin(driver);
+	    Login.usrnameLogin("Admin");
+		logger.info("username");
+		Login.password("admin123");
+		logger.info("passwordfirstpag");
+		Login.login();
+		logger.info("click on login");
+		
 		
 	}
 
