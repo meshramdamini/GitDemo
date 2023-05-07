@@ -1,0 +1,460 @@
+[INFO ] 2023-04-13 00:41:19.550[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-13 00:41:19.606[TestNG-test=Test-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-13 00:41:21.811[TestNG-test=Test-1] newFramwork - username
+[INFO ] 2023-04-13 00:41:22.201[TestNG-test=Test-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-13 00:41:24.220[TestNG-test=Test-1] newFramwork - click on login
+[INFO ] 2023-04-13 00:41:27.126[TestNG-test=Test-1] newFramwork - click on admin module
+[INFO ] 2023-04-13 00:41:28.186[TestNG-test=Test-1] newFramwork - enter username
+[INFO ] 2023-04-13 00:41:28.943[TestNG-test=Test-1] newFramwork - enter user Roll
+[INFO ] 2023-04-13 00:41:29.083[TestNG-test=Test-1] newFramwork - select roll
+[INFO ] 2023-04-13 00:41:30.963[TestNG-test=Test-1] newFramwork - enter EMP name
+[INFO ] 2023-04-13 00:41:31.198[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-13 00:41:31.463[TestNG-test=Test-1] newFramwork - select status
+[INFO ] 2023-04-13 00:41:31.752[TestNG-test=Test-1] newFramwork - click on search btn
+[INFO ] 2023-04-13 00:41:31.854[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-13 00:41:32.671[TestNG-test=Test-1] newFramwork - add user name
+[INFO ] 2023-04-13 00:41:33.599[TestNG-test=Test-1] newFramwork - add roll
+[INFO ] 2023-04-13 00:41:33.715[TestNG-test=Test-1] newFramwork - enter option
+[INFO ] 2023-04-13 00:41:33.841[TestNG-test=Test-1] newFramwork - select staus
+[INFO ] 2023-04-13 00:41:33.957[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-13 00:41:35.870[TestNG-test=Test-1] newFramwork - enetr empname3
+[INFO ] 2023-04-13 00:41:36.305[TestNG-test=Test-1] newFramwork - enter uname damini
+[INFO ] 2023-04-13 00:41:36.906[TestNG-test=Test-1] newFramwork - enter psw
+[INFO ] 2023-04-13 00:41:37.462[TestNG-test=Test-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-14 23:04:07.399[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-14 23:04:08.129[TestNG-test=Test-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-14 23:04:11.539[TestNG-test=Test-1] newFramwork - username
+[INFO ] 2023-04-14 23:04:12.123[TestNG-test=Test-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-14 23:04:14.921[TestNG-test=Test-1] newFramwork - click on login
+[INFO ] 2023-04-14 23:04:21.778[TestNG-test=Test-1] newFramwork - click on admin module
+[INFO ] 2023-04-14 23:04:24.967[TestNG-test=Test-1] newFramwork - enter username
+[INFO ] 2023-04-14 23:04:25.878[TestNG-test=Test-1] newFramwork - enter user Roll
+[INFO ] 2023-04-14 23:04:26.085[TestNG-test=Test-1] newFramwork - select roll
+[INFO ] 2023-04-14 23:04:28.396[TestNG-test=Test-1] newFramwork - enter EMP name
+[INFO ] 2023-04-14 23:04:28.602[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:04:28.795[TestNG-test=Test-1] newFramwork - select status
+[INFO ] 2023-04-14 23:04:29.027[TestNG-test=Test-1] newFramwork - click on search btn
+[INFO ] 2023-04-14 23:04:30.858[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-14 23:04:31.651[TestNG-test=Test-1] newFramwork - add user name
+[INFO ] 2023-04-14 23:04:33.408[TestNG-test=Test-1] newFramwork - add roll
+[INFO ] 2023-04-14 23:04:33.591[TestNG-test=Test-1] newFramwork - enter option
+[INFO ] 2023-04-14 23:04:33.773[TestNG-test=Test-1] newFramwork - select staus
+[INFO ] 2023-04-14 23:04:33.950[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:04:35.730[TestNG-test=Test-1] newFramwork - enetr empname3
+[INFO ] 2023-04-14 23:04:36.229[TestNG-test=Test-1] newFramwork - enter uname damini
+[INFO ] 2023-04-14 23:04:36.745[TestNG-test=Test-1] newFramwork - enter psw
+[INFO ] 2023-04-14 23:04:37.192[TestNG-test=Test-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-14 23:06:35.454[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-14 23:06:35.524[TestNG-test=Test-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-14 23:06:37.174[TestNG-test=Test-1] newFramwork - username
+[INFO ] 2023-04-14 23:06:37.506[TestNG-test=Test-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-14 23:06:40.622[TestNG-test=Test-1] newFramwork - click on login
+[INFO ] 2023-04-14 23:06:46.678[TestNG-test=Test-1] newFramwork - click on admin module
+[INFO ] 2023-04-14 23:06:48.330[TestNG-test=Test-1] newFramwork - enter username
+[INFO ] 2023-04-14 23:06:48.580[TestNG-test=Test-1] newFramwork - enter user Roll
+[INFO ] 2023-04-14 23:06:48.784[TestNG-test=Test-1] newFramwork - select roll
+[INFO ] 2023-04-14 23:06:50.657[TestNG-test=Test-1] newFramwork - enter EMP name
+[INFO ] 2023-04-14 23:06:50.848[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:06:51.054[TestNG-test=Test-1] newFramwork - select status
+[INFO ] 2023-04-14 23:06:51.307[TestNG-test=Test-1] newFramwork - click on search btn
+[INFO ] 2023-04-14 23:06:51.398[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-14 23:06:52.916[TestNG-test=Test-1] newFramwork - add user name
+[INFO ] 2023-04-14 23:06:54.181[TestNG-test=Test-1] newFramwork - add roll
+[INFO ] 2023-04-14 23:06:54.359[TestNG-test=Test-1] newFramwork - enter option
+[INFO ] 2023-04-14 23:06:54.537[TestNG-test=Test-1] newFramwork - select staus
+[INFO ] 2023-04-14 23:06:54.712[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:06:56.454[TestNG-test=Test-1] newFramwork - enetr empname3
+[INFO ] 2023-04-14 23:06:56.821[TestNG-test=Test-1] newFramwork - enter uname damini
+[INFO ] 2023-04-14 23:06:57.269[TestNG-test=Test-1] newFramwork - enter psw
+[INFO ] 2023-04-14 23:06:57.693[TestNG-test=Test-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-14 23:09:24.914[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-14 23:09:25.000[TestNG-test=Test-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-14 23:09:26.463[TestNG-test=Test-1] newFramwork - username
+[INFO ] 2023-04-14 23:09:26.839[TestNG-test=Test-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-14 23:09:28.618[TestNG-test=Test-1] newFramwork - click on login
+[INFO ] 2023-04-14 23:09:31.234[TestNG-test=Test-1] newFramwork - click on admin module
+[INFO ] 2023-04-14 23:09:33.125[TestNG-test=Test-1] newFramwork - enter username
+[INFO ] 2023-04-14 23:09:33.337[TestNG-test=Test-1] newFramwork - enter user Roll
+[INFO ] 2023-04-14 23:09:33.533[TestNG-test=Test-1] newFramwork - select roll
+[INFO ] 2023-04-14 23:09:35.446[TestNG-test=Test-1] newFramwork - enter EMP name
+[INFO ] 2023-04-14 23:09:35.655[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:09:35.851[TestNG-test=Test-1] newFramwork - select status
+[INFO ] 2023-04-14 23:09:36.087[TestNG-test=Test-1] newFramwork - click on search btn
+[INFO ] 2023-04-14 23:09:36.207[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-14 23:09:37.159[TestNG-test=Test-1] newFramwork - add user name
+[INFO ] 2023-04-14 23:09:38.201[TestNG-test=Test-1] newFramwork - add roll
+[INFO ] 2023-04-14 23:09:38.381[TestNG-test=Test-1] newFramwork - enter option
+[INFO ] 2023-04-14 23:09:38.556[TestNG-test=Test-1] newFramwork - select staus
+[INFO ] 2023-04-14 23:09:38.735[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:09:40.476[TestNG-test=Test-1] newFramwork - enetr empname3
+[INFO ] 2023-04-14 23:09:40.866[TestNG-test=Test-1] newFramwork - enter uname damini
+[INFO ] 2023-04-14 23:09:41.313[TestNG-test=Test-1] newFramwork - enter psw
+[INFO ] 2023-04-14 23:09:41.727[TestNG-test=Test-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-14 23:17:00.460[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-14 23:17:00.798[TestNG-test=Test-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-14 23:17:03.074[TestNG-test=Test-1] newFramwork - username
+[INFO ] 2023-04-14 23:17:03.380[TestNG-test=Test-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-14 23:17:07.668[TestNG-test=Test-1] newFramwork - click on login
+[INFO ] 2023-04-14 23:17:11.064[TestNG-test=Test-1] newFramwork - click on admin module
+[INFO ] 2023-04-14 23:17:12.143[TestNG-test=Test-1] newFramwork - enter username
+[INFO ] 2023-04-14 23:17:12.520[TestNG-test=Test-1] newFramwork - enter user Roll
+[INFO ] 2023-04-14 23:17:13.479[TestNG-test=Test-1] newFramwork - select roll
+[INFO ] 2023-04-14 23:17:15.221[TestNG-test=Test-1] newFramwork - enter EMP name
+[INFO ] 2023-04-14 23:17:15.521[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:17:15.835[TestNG-test=Test-1] newFramwork - select status
+[INFO ] 2023-04-14 23:17:16.201[TestNG-test=Test-1] newFramwork - click on search btn
+[INFO ] 2023-04-14 23:17:16.268[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-14 23:17:18.384[TestNG-test=Test-1] newFramwork - add user name
+[INFO ] 2023-04-14 23:17:19.816[TestNG-test=Test-1] newFramwork - add roll
+[INFO ] 2023-04-14 23:17:20.157[TestNG-test=Test-1] newFramwork - enter option
+[INFO ] 2023-04-14 23:17:20.503[TestNG-test=Test-1] newFramwork - select staus
+[INFO ] 2023-04-14 23:17:20.824[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:17:22.419[TestNG-test=Test-1] newFramwork - enetr empname3
+[INFO ] 2023-04-14 23:17:22.501[TestNG-test=Test-1] newFramwork - enter uname damini
+[INFO ] 2023-04-14 23:17:22.627[TestNG-test=Test-1] newFramwork - enter psw
+[INFO ] 2023-04-14 23:17:22.749[TestNG-test=Test-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-14 23:31:11.966[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-14 23:31:12.125[TestNG-test=Test-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-14 23:31:13.601[TestNG-test=Test-1] newFramwork - username
+[INFO ] 2023-04-14 23:31:13.825[TestNG-test=Test-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-14 23:31:16.720[TestNG-test=Test-1] newFramwork - click on login
+[INFO ] 2023-04-14 23:31:19.996[TestNG-test=Test-1] newFramwork - click on admin module
+[INFO ] 2023-04-14 23:31:20.999[TestNG-test=Test-1] newFramwork - enter username
+[INFO ] 2023-04-14 23:31:21.354[TestNG-test=Test-1] newFramwork - enter user Roll
+[INFO ] 2023-04-14 23:31:22.142[TestNG-test=Test-1] newFramwork - select roll
+[INFO ] 2023-04-14 23:31:23.846[TestNG-test=Test-1] newFramwork - enter EMP name
+[INFO ] 2023-04-14 23:31:24.129[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:31:24.417[TestNG-test=Test-1] newFramwork - select status
+[INFO ] 2023-04-14 23:31:24.765[TestNG-test=Test-1] newFramwork - click on search btn
+[INFO ] 2023-04-14 23:31:24.874[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-14 23:31:26.800[TestNG-test=Test-1] newFramwork - add user name
+[INFO ] 2023-04-14 23:31:28.255[TestNG-test=Test-1] newFramwork - add roll
+[INFO ] 2023-04-14 23:31:28.550[TestNG-test=Test-1] newFramwork - enter option
+[INFO ] 2023-04-14 23:31:28.821[TestNG-test=Test-1] newFramwork - select staus
+[INFO ] 2023-04-14 23:31:29.106[TestNG-test=Test-1] newFramwork - status
+[INFO ] 2023-04-14 23:31:30.612[TestNG-test=Test-1] newFramwork - enetr empname3
+[INFO ] 2023-04-14 23:31:30.698[TestNG-test=Test-1] newFramwork - enter uname damini
+[INFO ] 2023-04-14 23:31:30.826[TestNG-test=Test-1] newFramwork - enter psw
+[INFO ] 2023-04-14 23:31:30.939[TestNG-test=Test-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-23 23:44:48.769[main] newFramwork - url open
+[INFO ] 2023-04-23 23:45:15.062[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-23 23:46:02.223[main] newFramwork - url open
+[INFO ] 2023-04-23 23:46:25.600[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 00:08:05.365[main] newFramwork - url open
+[INFO ] 2023-04-24 00:08:06.128[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-24 00:08:12.182[main] newFramwork - username
+[INFO ] 2023-04-24 00:08:12.439[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-24 00:08:16.503[main] newFramwork - click on login
+[INFO ] 2023-04-24 00:08:23.431[main] newFramwork - click on admin module
+[INFO ] 2023-04-24 00:08:24.510[main] newFramwork - enter username
+[INFO ] 2023-04-24 00:08:24.779[main] newFramwork - enter user Roll
+[INFO ] 2023-04-24 00:08:25.048[main] newFramwork - select roll
+[INFO ] 2023-04-24 00:08:45.583[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 00:08:48.842[main] newFramwork - add user name
+[INFO ] 2023-04-24 00:08:50.859[main] newFramwork - add roll
+[INFO ] 2023-04-24 00:08:51.587[main] newFramwork - enter option
+[INFO ] 2023-04-24 00:08:52.136[main] newFramwork - select staus
+[INFO ] 2023-04-24 00:08:52.545[main] newFramwork - status
+[INFO ] 2023-04-24 00:14:33.632[main] newFramwork - url open
+[INFO ] 2023-04-24 00:14:33.776[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-24 00:14:35.851[main] newFramwork - username
+[INFO ] 2023-04-24 00:14:36.118[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-24 00:14:38.769[main] newFramwork - click on login
+[INFO ] 2023-04-24 00:14:41.715[main] newFramwork - click on admin module
+[INFO ] 2023-04-24 00:14:42.443[main] newFramwork - enter username
+[INFO ] 2023-04-24 00:14:42.810[main] newFramwork - enter user Roll
+[INFO ] 2023-04-24 00:14:43.057[main] newFramwork - select roll
+[INFO ] 2023-04-24 00:15:03.299[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 00:15:06.035[main] newFramwork - add user name
+[INFO ] 2023-04-24 00:15:07.426[main] newFramwork - add roll
+[INFO ] 2023-04-24 00:15:07.733[main] newFramwork - enter option
+[INFO ] 2023-04-24 00:15:08.007[main] newFramwork - select staus
+[INFO ] 2023-04-24 00:15:08.342[main] newFramwork - status
+[INFO ] 2023-04-24 00:15:09.964[main] newFramwork - enetr empname3
+[INFO ] 2023-04-24 00:15:10.052[main] newFramwork - enter uname damini
+[INFO ] 2023-04-24 00:15:10.144[main] newFramwork - enter psw
+[INFO ] 2023-04-24 00:15:10.240[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-24 00:17:31.754[main] newFramwork - url open
+[INFO ] 2023-04-24 00:17:31.846[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-24 00:17:33.470[main] newFramwork - username
+[INFO ] 2023-04-24 00:17:33.720[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-24 00:17:36.251[main] newFramwork - click on login
+[INFO ] 2023-04-24 00:17:40.178[main] newFramwork - click on admin module
+[INFO ] 2023-04-24 00:17:41.584[main] newFramwork - enter username
+[INFO ] 2023-04-24 00:17:42.052[main] newFramwork - enter user Roll
+[INFO ] 2023-04-24 00:17:42.413[main] newFramwork - select roll
+[INFO ] 2023-04-24 00:17:43.992[main] newFramwork - enter EMP name
+[INFO ] 2023-04-24 00:17:44.263[main] newFramwork - status
+[INFO ] 2023-04-24 00:17:44.539[main] newFramwork - select status
+[INFO ] 2023-04-24 00:17:44.841[main] newFramwork - click on search btn
+[INFO ] 2023-04-24 00:17:44.873[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 00:17:46.606[main] newFramwork - add user name
+[INFO ] 2023-04-24 00:17:47.930[main] newFramwork - add roll
+[INFO ] 2023-04-24 00:17:48.262[main] newFramwork - enter option
+[INFO ] 2023-04-24 00:17:48.633[main] newFramwork - select staus
+[INFO ] 2023-04-24 00:17:48.917[main] newFramwork - status
+[INFO ] 2023-04-24 00:17:50.444[main] newFramwork - enetr empname3
+[INFO ] 2023-04-24 00:17:50.522[main] newFramwork - enter uname damini
+[INFO ] 2023-04-24 00:17:50.619[main] newFramwork - enter psw
+[INFO ] 2023-04-24 00:17:50.710[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-24 22:57:13.677[TestNG-test=Test-1] newFramwork - url open
+[INFO ] 2023-04-24 22:57:41.092[TestNG-test=Test-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 22:59:43.773[main] newFramwork - url open
+[INFO ] 2023-04-24 23:00:06.971[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 23:01:20.616[main] newFramwork - url open
+[INFO ] 2023-04-24 23:01:43.739[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 23:03:32.551[main] newFramwork - url open
+[INFO ] 2023-04-24 23:03:55.928[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 23:08:06.250[main] newFramwork - url open
+[INFO ] 2023-04-24 23:08:28.856[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 23:19:16.367[main] newFramwork - url open
+[INFO ] 2023-04-24 23:19:38.705[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 23:25:14.871[main] newFramwork - url open
+[INFO ] 2023-04-24 23:37:00.143[TestNG-tests-1] newFramwork - url open
+[INFO ] 2023-04-24 23:37:24.243[TestNG-tests-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-24 23:40:41.189[main] newFramwork - url open
+[INFO ] 2023-04-24 23:44:40.048[main] newFramwork - url open
+[INFO ] 2023-04-24 23:47:04.697[main] newFramwork - url open
+[INFO ] 2023-04-24 23:54:04.899[main] newFramwork - url open
+[INFO ] 2023-04-24 23:58:25.086[main] newFramwork - url open
+[INFO ] 2023-04-25 00:09:28.788[main] newFramwork - url open
+[INFO ] 2023-04-25 00:12:12.609[main] newFramwork - url open
+[INFO ] 2023-04-25 00:12:15.266[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:12:15.472[main] newFramwork - username
+[INFO ] 2023-04-25 00:12:15.520[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:12:15.946[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:12:15.964[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:12:16.011[main] newFramwork - username
+[INFO ] 2023-04-25 00:12:16.080[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:12:16.428[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:12:36.554[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:15:12.564[main] newFramwork - url open
+[INFO ] 2023-04-25 00:18:58.067[main] newFramwork - url open
+[INFO ] 2023-04-25 00:22:05.105[main] newFramwork - url open
+[INFO ] 2023-04-25 00:22:08.922[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:22:09.150[main] newFramwork - username
+[INFO ] 2023-04-25 00:22:09.249[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:22:12.002[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:22:12.049[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:22:34.252[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:22:35.435[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:22:35.722[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:22:36.122[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:22:56.311[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:22:59.093[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:23:00.453[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:23:00.750[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:23:01.010[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:23:01.292[main] newFramwork - status
+[INFO ] 2023-04-25 00:31:17.433[main] newFramwork - url open
+[INFO ] 2023-04-25 00:31:20.703[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:31:20.868[main] newFramwork - username
+[INFO ] 2023-04-25 00:31:20.948[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:31:23.470[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:31:23.521[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:31:45.916[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:31:46.971[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:31:47.263[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:31:48.368[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:31:50.085[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:31:50.357[main] newFramwork - status
+[INFO ] 2023-04-25 00:31:50.634[main] newFramwork - select status
+[INFO ] 2023-04-25 00:31:50.953[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:31:50.975[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:31:52.911[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:31:54.043[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:31:54.316[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:31:54.580[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:31:54.856[main] newFramwork - status
+[INFO ] 2023-04-25 00:34:16.516[main] newFramwork - url open
+[INFO ] 2023-04-25 00:34:19.521[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:34:19.671[main] newFramwork - username
+[INFO ] 2023-04-25 00:34:19.723[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:34:22.437[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:34:22.516[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:34:44.966[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:34:46.029[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:34:47.158[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:34:47.431[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:34:49.039[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:34:49.317[main] newFramwork - status
+[INFO ] 2023-04-25 00:34:49.586[main] newFramwork - select status
+[INFO ] 2023-04-25 00:34:49.910[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:34:49.945[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:34:51.680[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:34:52.996[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:34:53.285[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:34:53.556[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:34:53.846[main] newFramwork - status
+[INFO ] 2023-04-25 00:34:55.350[main] newFramwork - enetr empname3
+[INFO ] 2023-04-25 00:34:55.432[main] newFramwork - enter uname damini
+[INFO ] 2023-04-25 00:34:55.533[main] newFramwork - enter psw
+[INFO ] 2023-04-25 00:34:55.634[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-25 00:39:17.730[main] newFramwork - url open
+[INFO ] 2023-04-25 00:39:21.175[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:39:21.375[main] newFramwork - username
+[INFO ] 2023-04-25 00:39:21.482[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:39:24.153[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:39:28.431[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:39:29.532[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:39:29.887[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:39:30.723[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:39:32.376[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:39:32.673[main] newFramwork - status
+[INFO ] 2023-04-25 00:39:32.959[main] newFramwork - select status
+[INFO ] 2023-04-25 00:39:33.307[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:39:33.334[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:39:35.059[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:39:36.550[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:39:36.853[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:39:37.219[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:39:37.537[main] newFramwork - status
+[INFO ] 2023-04-25 00:39:39.025[main] newFramwork - enetr empname3
+[INFO ] 2023-04-25 00:39:39.107[main] newFramwork - enter uname damini
+[INFO ] 2023-04-25 00:39:39.210[main] newFramwork - enter psw
+[INFO ] 2023-04-25 00:39:39.313[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-25 00:49:52.620[main] newFramwork - url open
+[INFO ] 2023-04-25 00:49:56.169[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:49:56.401[main] newFramwork - username
+[INFO ] 2023-04-25 00:49:56.523[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:49:59.024[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:50:02.862[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:50:04.031[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:50:05.093[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:50:05.511[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:50:07.195[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:50:07.505[main] newFramwork - status
+[INFO ] 2023-04-25 00:50:07.785[main] newFramwork - select status
+[INFO ] 2023-04-25 00:50:08.138[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:50:08.163[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:50:09.914[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:50:11.252[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:50:11.557[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:50:11.885[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:50:12.201[main] newFramwork - status
+[INFO ] 2023-04-25 00:51:41.815[main] newFramwork - url open
+[INFO ] 2023-04-25 00:51:45.448[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:51:45.652[main] newFramwork - username
+[INFO ] 2023-04-25 00:51:45.746[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:51:48.339[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:51:51.820[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:51:53.015[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:51:54.080[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:51:54.368[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:51:55.919[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:51:56.213[main] newFramwork - status
+[INFO ] 2023-04-25 00:51:56.538[main] newFramwork - select status
+[INFO ] 2023-04-25 00:51:56.916[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:51:56.940[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:51:59.045[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:52:00.479[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:52:00.792[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:52:01.094[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:52:01.495[main] newFramwork - status
+[INFO ] 2023-04-25 00:52:02.961[main] newFramwork - enetr empname3
+[INFO ] 2023-04-25 00:52:03.045[main] newFramwork - enter uname damini
+[INFO ] 2023-04-25 00:52:03.152[main] newFramwork - enter psw
+[INFO ] 2023-04-25 00:52:03.248[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-25 00:54:46.965[main] newFramwork - url open
+[INFO ] 2023-04-25 00:54:49.839[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:54:49.965[main] newFramwork - username
+[INFO ] 2023-04-25 00:54:50.020[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:54:52.441[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:54:56.123[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:54:57.223[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:54:58.331[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:54:58.609[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:55:00.248[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:55:00.535[main] newFramwork - status
+[INFO ] 2023-04-25 00:55:00.835[main] newFramwork - select status
+[INFO ] 2023-04-25 00:55:01.172[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:55:01.199[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:55:02.938[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:55:04.331[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:55:04.625[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:55:04.895[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:55:05.182[main] newFramwork - status
+[INFO ] 2023-04-25 00:55:06.691[main] newFramwork - enetr empname3
+[INFO ] 2023-04-25 00:55:06.779[main] newFramwork - enter uname damini
+[INFO ] 2023-04-25 00:55:06.883[main] newFramwork - enter psw
+[INFO ] 2023-04-25 00:55:06.985[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-25 00:56:44.036[main] newFramwork - url open
+[INFO ] 2023-04-25 00:56:47.338[main] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:56:47.510[main] newFramwork - username
+[INFO ] 2023-04-25 00:56:47.588[main] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:56:50.174[main] newFramwork - click on login
+[INFO ] 2023-04-25 00:56:53.436[main] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:56:54.496[main] newFramwork - enter username
+[INFO ] 2023-04-25 00:56:55.566[main] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:56:55.867[main] newFramwork - select roll
+[INFO ] 2023-04-25 00:56:57.413[main] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:56:57.713[main] newFramwork - status
+[INFO ] 2023-04-25 00:56:58.018[main] newFramwork - select status
+[INFO ] 2023-04-25 00:56:58.399[main] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:56:58.430[main] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:57:01.119[main] newFramwork - add user name
+[INFO ] 2023-04-25 00:57:02.474[main] newFramwork - add roll
+[INFO ] 2023-04-25 00:57:02.830[main] newFramwork - enter option
+[INFO ] 2023-04-25 00:57:03.201[main] newFramwork - select staus
+[INFO ] 2023-04-25 00:57:03.516[main] newFramwork - status
+[INFO ] 2023-04-25 00:57:04.991[main] newFramwork - enetr empname3
+[INFO ] 2023-04-25 00:57:05.073[main] newFramwork - enter uname damini
+[INFO ] 2023-04-25 00:57:05.173[main] newFramwork - enter psw
+[INFO ] 2023-04-25 00:57:05.272[main] newFramwork - enter confirm pass
+[INFO ] 2023-04-25 00:58:42.894[TestNG-tests-1] newFramwork - url open
+[INFO ] 2023-04-25 00:58:46.254[TestNG-tests-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 00:58:46.398[TestNG-tests-1] newFramwork - username
+[INFO ] 2023-04-25 00:58:46.470[TestNG-tests-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 00:58:48.971[TestNG-tests-1] newFramwork - click on login
+[INFO ] 2023-04-25 00:58:51.907[TestNG-tests-1] newFramwork - click on admin module
+[INFO ] 2023-04-25 00:58:52.730[TestNG-tests-1] newFramwork - enter username
+[INFO ] 2023-04-25 00:58:53.040[TestNG-tests-1] newFramwork - enter user Roll
+[INFO ] 2023-04-25 00:58:53.771[TestNG-tests-1] newFramwork - select roll
+[INFO ] 2023-04-25 00:58:55.340[TestNG-tests-1] newFramwork - enter EMP name
+[INFO ] 2023-04-25 00:58:55.625[TestNG-tests-1] newFramwork - status
+[INFO ] 2023-04-25 00:58:55.907[TestNG-tests-1] newFramwork - select status
+[INFO ] 2023-04-25 00:58:56.247[TestNG-tests-1] newFramwork - click on search btn
+[INFO ] 2023-04-25 00:58:56.279[TestNG-tests-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 00:58:58.372[TestNG-tests-1] newFramwork - add user name
+[INFO ] 2023-04-25 00:58:59.721[TestNG-tests-1] newFramwork - add roll
+[INFO ] 2023-04-25 00:59:00.006[TestNG-tests-1] newFramwork - enter option
+[INFO ] 2023-04-25 00:59:00.280[TestNG-tests-1] newFramwork - select staus
+[INFO ] 2023-04-25 00:59:00.569[TestNG-tests-1] newFramwork - status
+[INFO ] 2023-04-25 00:59:02.124[TestNG-tests-1] newFramwork - enetr empname3
+[INFO ] 2023-04-25 00:59:02.218[TestNG-tests-1] newFramwork - enter uname damini
+[INFO ] 2023-04-25 00:59:02.335[TestNG-tests-1] newFramwork - enter psw
+[INFO ] 2023-04-25 00:59:02.564[TestNG-tests-1] newFramwork - enter confirm pass
+[INFO ] 2023-04-25 23:45:33.914[TestNG-tests-1] newFramwork - url open
+[INFO ] 2023-04-25 23:45:41.566[TestNG-tests-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 23:45:42.034[TestNG-tests-1] newFramwork - username
+[INFO ] 2023-04-25 23:45:42.128[TestNG-tests-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 23:45:44.792[TestNG-tests-1] newFramwork - click on login
+[INFO ] 2023-04-25 23:45:47.701[TestNG-tests-1] newFramwork - click on admin module
+[INFO ] 2023-04-25 23:45:48.937[TestNG-tests-1] newFramwork - enter username
+[INFO ] 2023-04-25 23:45:49.264[TestNG-tests-1] newFramwork - enter user Roll
+[INFO ] 2023-04-25 23:45:49.692[TestNG-tests-1] newFramwork - select roll
+[INFO ] 2023-04-25 23:46:09.958[TestNG-tests-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 23:46:11.767[TestNG-tests-1] newFramwork - add user name
+[INFO ] 2023-04-25 23:46:13.091[TestNG-tests-1] newFramwork - add roll
+[INFO ] 2023-04-25 23:46:13.391[TestNG-tests-1] newFramwork - enter option
+[INFO ] 2023-04-25 23:46:13.665[TestNG-tests-1] newFramwork - select staus
+[INFO ] 2023-04-25 23:46:13.966[TestNG-tests-1] newFramwork - status
+[INFO ] 2023-04-25 23:51:19.284[TestNG-tests-1] newFramwork - url open
+[INFO ] 2023-04-25 23:51:22.887[TestNG-tests-1] newFramwork - verify login test excecution started
+[INFO ] 2023-04-25 23:51:23.028[TestNG-tests-1] newFramwork - username
+[INFO ] 2023-04-25 23:51:23.086[TestNG-tests-1] newFramwork - passwordfirstpag
+[INFO ] 2023-04-25 23:51:25.787[TestNG-tests-1] newFramwork - click on login
+[INFO ] 2023-04-25 23:51:29.057[TestNG-tests-1] newFramwork - click on admin module
+[INFO ] 2023-04-25 23:51:29.730[TestNG-tests-1] newFramwork - enter username
+[INFO ] 2023-04-25 23:51:29.971[TestNG-tests-1] newFramwork - enter user Roll
+[INFO ] 2023-04-25 23:51:30.524[TestNG-tests-1] newFramwork - select roll
+[INFO ] 2023-04-25 23:51:50.782[TestNG-tests-1] newFramwork - verifyAddDetails
+[INFO ] 2023-04-25 23:51:53.200[TestNG-tests-1] newFramwork - add user name
+[INFO ] 2023-04-25 23:51:54.118[TestNG-tests-1] newFramwork - add roll
+[INFO ] 2023-04-25 23:51:54.878[TestNG-tests-1] newFramwork - enter option
+[INFO ] 2023-04-25 23:51:55.382[TestNG-tests-1] newFramwork - select staus
+[INFO ] 2023-04-25 23:51:56.136[TestNG-tests-1] newFramwork - status
+[INFO ] 2023-04-25 23:51:58.782[TestNG-tests-1] newFramwork - enetr empname3
+[INFO ] 2023-04-25 23:51:58.880[TestNG-tests-1] newFramwork - enter uname damini
+[INFO ] 2023-04-25 23:51:58.983[TestNG-tests-1] newFramwork - enter psw
+[INFO ] 2023-04-25 23:51:59.083[TestNG-tests-1] newFramwork - enter confirm pass
